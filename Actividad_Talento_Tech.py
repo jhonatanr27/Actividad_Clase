@@ -6,15 +6,6 @@ import seaborn as sns
 import plotly.express as px
 from datetime import datetime
 
-# 1. Configuración inicial de la aplicación
-st.set_page_config(
-    page_title="Dashboard Interactivo",
-    page_icon="📊",
-    layout="wide"
-)
-st.title("📊 Dashboard Interactivo con Streamlit")
-st.sidebar.title("🔍 Opciones de Navegación")
-
 # Configurar la página
 st.set_page_config(page_title="Agroindustria en Colombia", page_icon="🌾", layout="wide")
 
