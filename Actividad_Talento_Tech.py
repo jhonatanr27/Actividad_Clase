@@ -33,5 +33,5 @@ else:
     st.write("Selecciona al menos una variable para mostrar el gráfico.")
 
 # Ejecutar la aplicación
-if __name__ == "__main__":
-    st.run()
+#if __name__ == "__main__":
+ #   st.run()
